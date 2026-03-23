@@ -191,15 +191,6 @@ This project is designed for:
 
 ---
 
-## 📈 Future Improvements
-
-* [ ] Add Pytest tests
-* [ ] Add Docker support
-* [ ] Add staging environment
-* [ ] Add logging (ELK / Grafana)
-
----
-
 ## 👨‍💻 Author
 
 Daniil Nikolaev
