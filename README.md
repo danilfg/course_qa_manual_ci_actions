@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
-🇷🇺 Read this in Russian: [README_RU.md](README_RU.md)
+Read this in Russian: [README_RU.md](README_RU.md)
 
 ## 📌 Overview
 
