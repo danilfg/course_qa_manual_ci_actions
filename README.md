@@ -1,8 +1,3 @@
-Ок, делаю тебе **README уровня топ GitHub проекта** 🚀
-(с бейджами, структурой, CI/CD описанием, архитектурой)
-
----
-
 # 🚀 QA Automation CI/CD Project
 
 ### GitHub Actions + PythonAnywhere + OpenWeather API
@@ -218,11 +213,3 @@ If you like this project:
 
 👉 Star the repo
 👉 Share with others
-
----
-
-Если хочешь — дальше могу сделать 🔥:
-
-* CI YAML под твой проект (готовый deploy.yml)
-* Docker + CI/CD версия (уровень middle+)
-* Версию под O-1 (как кейс в портфолио)
